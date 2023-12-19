@@ -1,0 +1,352 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: rgb(216, 169, 107);
+}
+.head{
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    background-color: rgb(167, 117, 51);
+    
+}
+.head h1{
+    font-weight: bolder;
+    font-size: 100px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;  
+    
+}
+.head img{
+    margin-left: 10px;
+}
+.head1{
+    background-color: rgb(167, 117, 51);
+    display: flex;
+    height: 30px;
+    justify-content: center;
+    align-items: center;
+    font-size: large;
+    position: sticky;
+    top: 0px;
+    padding: 10px;
+    
+}
+.head1 h4{
+    margin: 0;
+}
+.d2{
+    background-color: rgb(216, 169, 107);
+    padding: 30px;
+}
+.d2 h3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 60px;
+}
+.d2 h5{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 60px;
+}
+.table{
+    background-color:rgb(216, 169, 107) ;
+    padding: 20px;
+}
+.table p{
+    border-radius: 10px;
+    border: 2px solid black;
+    justify-content: center;
+    align-items: center;
+    padding: 40px;
+    width: 55%;
+    margin-left: 300px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+}
+.d3{
+    background-color: rgb(216, 169, 107);
+}
+.d3 h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 50px;
+    padding: 30px;
+}
+.d3 p{
+    font-size: 20px;
+    margin-left: 20px;
+}
+.d3 ul{
+    margin-left: 45px;
+    font-size: 20px;
+    
+}
+.d3 ul li{
+    padding: 15px;
+}
+.d4{
+    background-color: rgb(216, 169, 107);
+    height: 1850px;
+}
+.d4 h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 50px;
+    padding: 30px;
+}
+.d4 #lef{
+    border-radius: 3%;
+    margin-left: 100px;
+    position: absolute;
+}
+.starbucks h3{
+    display: flex;
+    position: absolute;
+    margin-left: 620px ;
+    margin-top: 20px;
+    font-size: x-large; 
+}
+.starbucks p{
+    display: flex;
+    position: absolute;
+    margin-left: 620px;
+    font-size: 20px;
+    margin-top: 80px;
+    margin-right: 150px;
+    text-align: justify;
+}
+.d4 #rig{
+    border-radius: 3%;
+    margin-right: 100px;
+    position: absolute;
+    margin-left: 65%;
+    height: 270px;
+    width: 350px;
+    margin-top: 300px;
+}
+.dunkin h3{
+    display: flex;
+    position: absolute;
+    margin-right: 620px ;
+    margin-top: 300px;
+    font-size: x-large; 
+    margin-left: 120px;
+}
+.dunkin p{
+    display: flex;
+    position: absolute;
+    margin-right: 620px;
+    font-size: 20px;
+    margin-top: 360px;
+    margin-left: 100px;
+    text-align: justify;
+}
+.d4 #lef1{
+    border-radius: 3%;
+    margin-left: 100px;
+    position: absolute;
+    margin-top: 600px;
+    width: 370px;
+    height: 270px;
+}
+
+.peets h3{
+    display: flex;
+    position: absolute;
+    margin-left: 620px ;
+    margin-top: 600px;
+    font-size: x-large; 
+}
+.peets p{
+    display: flex;
+    position: absolute;
+    margin-left: 620px;
+    font-size: 20px;
+    margin-top: 660px;
+    margin-right: 150px;
+    text-align: justify;
+}
+.d4 #rig1{
+    border-radius: 3%;
+    margin-right: 100px;
+    position: absolute;
+    margin-left: 65%;
+    height: 270px;
+    width: 350px;
+    margin-top: 950px;
+}
+.costa h3{
+    display: flex;
+    position: absolute;
+    margin-right: 620px ;
+    margin-top: 920px;
+    font-size: x-large; 
+    margin-left: 120px;
+}
+.costa p{
+    display: flex;
+    position: absolute;
+    margin-right: 620px;
+    font-size: 20px;
+    margin-top: 990px;
+    margin-left: 100px;
+    text-align: justify;
+}
+.d4 #lef2{
+    border-radius: 3%;
+    margin-left: 100px;
+    position: absolute;
+    margin-top: 1300px;
+    width: 370px;
+    height: 270px;
+}
+.mcafe h3{
+    display: flex;
+    position: absolute;
+    margin-left: 620px ;
+    margin-top: 1330px;
+    font-size: x-large; 
+}
+.mcafe p{
+    display: flex;
+    position: absolute;
+    margin-left: 620px;
+    font-size: 20px;
+    margin-top: 1390px;
+    margin-right: 150px;
+    text-align: justify;
+}
+.gallery{
+    background-color: rgb(237, 163, 109);
+    height: 1800px;
+}
+.d5 h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 50px;
+    padding: 30px;
+}
+.row1{
+    display: flex;
+}
+.row1 img{
+    height: 250px;
+    width: 300px;
+    border-radius: 2%;
+    margin: 50px;
+    margin-left: 55px;
+}
+.row2{
+    display: flex;
+}
+.row2 img{
+    height: 250px;
+    width: 300px;
+    border-radius: 2%;
+    margin: 50px;
+    margin-left: 55px;
+}
+.row3{
+    display: flex;
+}
+.row3 img{
+    height: 250px;
+    width: 300px;
+    border-radius: 2%;
+    margin: 50px;
+    margin-left: 55px;
+}
+.gallery{
+    height: 1200px;
+    background-color: rgb(167, 117, 51);
+    width: 80%;
+    margin-left: 140px;
+    box-shadow: 1px 1px 10px black;
+    border-radius: 2%;
+    position: absolute;
+}
+.dd h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 50px;
+    padding: 30px;
+    margin-top: 1300px;    
+}
+.d6{
+    height: 400px;
+    background-color: rgb(167, 117, 51);
+    width: 50%;
+    margin-left: 370px;
+    box-shadow: 1px 1px 10px black;
+    border-radius: 2%;
+    position: absolute;
+    margin-top: 50px;
+}
+.lab1{
+    font-size: large;
+    border-radius: 10px;
+}
+.d6 form {
+    margin-top: 100px;
+    margin-left: 100px;
+    border-radius: 10px;
+}
+input,textarea{
+    border-radius: 5px;
+}
+button{
+    padding: 10px;
+    background-color: rgb(83, 21, 21);
+    color: azure;
+    margin-left: 350px;
+}
+footer{
+    background-color: rgb(167, 117, 51);
+    margin-top: 500px;
+}
+.frow{
+    width: 100%;
+    margin-top: 60px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.fcol{
+    width: 500px;
+    margin: 30px;
+}
+.fcol h1{
+    font-family: Indie Flower;
+    text-shadow: 3px 3px 3px rgb(90, 59, 59);
+    font-size: 40px;
+    font-weight: 900;
+}
+.fcol a{
+    text-decoration: none;
+    color: black;
+    font-weight: 800;
+}
+.fcol a:hover{
+    text-shadow: 3px 3px 3px;
+    color: black;
+}
+.fcol ul li{
+    display: flex;
+    float: left;
+    margin: 5px;
+}
+footer .last p{
+    text-align: center;
+    margin-left: 600px;
+}
